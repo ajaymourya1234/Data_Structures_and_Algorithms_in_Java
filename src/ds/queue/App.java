@@ -16,6 +16,16 @@ public class App {
 
 
 		myQueue.view();
+		
+		/*CircularQueue cQueue = new CircularQueue(3);
+		cQueue.insert(1);
+		cQueue.insert(2);
+		cQueue.insert(3);
+		cQueue.insert(4);
+		cQueue.insert(5);
+		//long i = cQueue.remove();
+		//System.out.println(i);
+		cQueue.view();*/
 	}
 
 }
